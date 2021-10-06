@@ -15,7 +15,7 @@ const CONFIG = {
     Do you love me too?`,
     btnIntro: 'Hello',
     title: 'This is for u',
-    desc: 'Just let me take care of you ',
+    desc: 'Hãy để em được phép thương chị nha',
     btnYes: 'Tất nhiên rồi',
     btnNo: 'Còn lâu',
     question:'Rồi sau này em sẽ cưới chị về nhé',
